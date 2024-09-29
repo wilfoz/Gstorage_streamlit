@@ -1,0 +1,13 @@
+langchain_community
+pypdf
+pathlib
+langchain-openai
+langchain_chroma
+streamlit
+google-cloud-storage
+google-auth
+google-auth-oauthlib
+langchain_google_community
+unstructured[all-docs]
+poppler-utils
+pytesseract
