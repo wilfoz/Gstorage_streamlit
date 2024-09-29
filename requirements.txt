@@ -1,4 +1,5 @@
 langchain_community
+protobuf==3.20.x
 pypdf
 pathlib
 langchain-openai
