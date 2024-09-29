@@ -1,6 +1,7 @@
 langchain_community
 protobuf==3.20
 pypdf
+tornado
 pathlib
 langchain-openai
 langchain_chroma
